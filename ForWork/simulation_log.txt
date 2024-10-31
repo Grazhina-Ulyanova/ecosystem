@@ -1,0 +1,75 @@
+Running the simulation...
+
+The first parameters:
+Temperature: 20
+Humidity: 80
+Water availability:50
+
+
+Day1
+The begging of the day:
+
+Temperature: 20
+Humidity: 80
+Water availability:70
+
+
+Animals try to eat. Plants start to drink:70
+
+Hunter luck. Health: 10. wolf ate rabbit
+Hunter luck. Health: 10. wolf ate rabbit
+grass drink enough. It's health didn't change
+grass drink enough. It's health didn't change
+
+Water availability after plants drinking:60
+
+
+Events of the day:
+
+
+Day2
+The begging of the day:
+
+Temperature: 20
+Humidity: 80
+Water availability:80
+
+
+Animals try to eat. Plants start to drink:80
+
+Hunter is not luck. wolf didn't eat today. Health: 9
+Hunter is not luck. wolf didn't eat today. Health: 9
+grass drink enough. It's health didn't change
+grass drink enough. It's health didn't change
+
+Water availability after plants drinking:70
+
+
+Events of the day:
+
+
+Day3
+The begging of the day:
+
+Temperature: 20
+Humidity: 80
+Water availability:90
+
+
+Animals try to eat. Plants start to drink:90
+
+Hunter is not luck. wolf didn't eat today. Health: 8
+Hunter is not luck. wolf didn't eat today. Health: 8
+grass drink enough. It's health didn't change
+grass drink enough. It's health didn't change
+
+Water availability after plants drinking:80
+
+
+
+We have a new addition! 4 new grass
+We have a new addition! 4 new grass
+
+Events of the day:
+
+
